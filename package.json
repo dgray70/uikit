@@ -1,0 +1,23 @@
+{
+  "name": "uikit",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dgray70/uikit#readme",
+  "bugs": {
+    "url": "https://github.com/dgray70/uikit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgray70/uikit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite src"
+  },
+  "dependencies": {
+    "vite": "^8.0.13"
+  }
+}
